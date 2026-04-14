@@ -1,4 +1,4 @@
-Balanced License Template v2.0 (Public/Private Expanded)
+Androidy_turtle v2.0 (Public/Private Expanded)
 
 Copyright (c) 2026 turtleboyagain120
 
