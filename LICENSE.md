@@ -50,5 +50,5 @@ Certain aspects (e.g., proprietary algorithms if unmodified) confidential. No re
 4. Save as LICENSE. Apache-inspired with added Disclaimer, Endorsement, Export, Confidentiality.
 -----
 https://github.com/turtleboyagain120/License-testing
-https://github.com/turtleboyagain120/androidy
+https://github.com/NoahScratch493/androidy
 Credit to Noahscatch493
